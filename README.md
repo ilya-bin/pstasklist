@@ -1,5 +1,5 @@
 # pstasklist
-Task list with CPU % and memory in powershell based on https://superuser.com/a/1426271
+Task list with CPU % and memory for Windows PowerShell based on https://superuser.com/a/1426271
 
 # Usage
 ```
