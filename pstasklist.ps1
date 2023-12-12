@@ -1,5 +1,5 @@
 ##################################################
-#  Task list in with CPU % and memory in PowerShell 
+#  Task list in with CPU % and memory in Windows PowerShell 
 ##################################################
 if ($args[0] -eq $null) {
     $SortCol = "Memory"
